@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tomograph", "tomograph\tomograph.csproj", "{7754A462-74A6-4155-8EA1-94B2B767BC42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7754A462-74A6-4155-8EA1-94B2B767BC42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7754A462-74A6-4155-8EA1-94B2B767BC42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7754A462-74A6-4155-8EA1-94B2B767BC42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7754A462-74A6-4155-8EA1-94B2B767BC42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFB773CD-9EB4-421C-8545-F5DFFE3EAC28}
+	EndGlobalSection
+EndGlobal

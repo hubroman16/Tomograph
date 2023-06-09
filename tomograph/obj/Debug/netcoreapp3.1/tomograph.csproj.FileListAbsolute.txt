@@ -1,0 +1,16 @@
+D:\уроки\сишарп\tomograph\tomograph\bin\Debug\netcoreapp3.1\tomograph.exe
+D:\уроки\сишарп\tomograph\tomograph\bin\Debug\netcoreapp3.1\tomograph.deps.json
+D:\уроки\сишарп\tomograph\tomograph\bin\Debug\netcoreapp3.1\tomograph.runtimeconfig.json
+D:\уроки\сишарп\tomograph\tomograph\bin\Debug\netcoreapp3.1\tomograph.runtimeconfig.dev.json
+D:\уроки\сишарп\tomograph\tomograph\bin\Debug\netcoreapp3.1\tomograph.dll
+D:\уроки\сишарп\tomograph\tomograph\bin\Debug\netcoreapp3.1\tomograph.pdb
+D:\уроки\сишарп\tomograph\tomograph\obj\Debug\netcoreapp3.1\tomograph.csproj.GenerateResource.cache
+D:\уроки\сишарп\tomograph\tomograph\obj\Debug\netcoreapp3.1\tomograph.AssemblyInfoInputs.cache
+D:\уроки\сишарп\tomograph\tomograph\obj\Debug\netcoreapp3.1\tomograph.AssemblyInfo.cs
+D:\уроки\сишарп\tomograph\tomograph\obj\Debug\netcoreapp3.1\tomograph.csproj.CoreCompileInputs.cache
+D:\уроки\сишарп\tomograph\tomograph\obj\Debug\netcoreapp3.1\tomograph.dll
+D:\уроки\сишарп\tomograph\tomograph\obj\Debug\netcoreapp3.1\tomograph.pdb
+D:\уроки\сишарп\tomograph\tomograph\obj\Debug\netcoreapp3.1\tomograph.genruntimeconfig.cache
+D:\уроки\сишарп\tomograph\tomograph\obj\Debug\netcoreapp3.1\tomograph.parallel.resources
+D:\уроки\сишарп\tomograph\tomograph\obj\Debug\netcoreapp3.1\tomograph.veer.resources
+D:\уроки\сишарп\tomograph\tomograph\obj\Debug\netcoreapp3.1\tomograph.csprojAssemblyReference.cache
